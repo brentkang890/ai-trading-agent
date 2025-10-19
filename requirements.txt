@@ -8,3 +8,5 @@ pillow
 pytesseract
 openpyxl
 python-multipart
+ta
+python-binance
