@@ -7,3 +7,4 @@ opencv-python-headless
 pillow
 pytesseract
 openpyxl
+python-multipart
